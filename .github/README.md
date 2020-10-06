@@ -2,10 +2,10 @@
 ## KickStart to Open Source Event 
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request and contribute to the open source developer community.
 
 ## How to contribute to this repository
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Fork this repository (Click the Fork button in the top right of this page, then click at your profile)
 * Clone your fork down to your local machine
 
 ```markdown
