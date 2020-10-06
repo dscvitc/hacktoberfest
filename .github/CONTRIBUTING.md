@@ -3,5 +3,5 @@
 
 ### Contributors (Add your name below) :
 
-Vedant Rokde
+Vedant Rokde\
 Harshal Shree
