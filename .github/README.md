@@ -17,7 +17,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 
 ```markdown
 git add .
-git commit -m 'Commit message'
+git commit -m "Commit message"
 git push origin branch-name
 ```
 
@@ -27,4 +27,4 @@ git push origin branch-name
 
 ## Task Details
 ### 1. Create a file in the CodeContributors Folder and write a code to print "Hello World" in your favourite programming language.
-### 2. Add your full name in the contributors.md file
+### 2. Add your name and details in the contributors.md file
