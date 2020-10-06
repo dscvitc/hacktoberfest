@@ -1,7 +1,8 @@
 ### Make sure you follow all the guidlines specified in README.md
 
 
-### Contributors (Add your name below) :
+### Contributors (Add your details below) :
 
-Vedant Rokde\
-Harshal Shree
+#### Name: Harshal Shree
+ - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai.
+ - Reg. No: 18BLC1039
