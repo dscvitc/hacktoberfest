@@ -26,5 +26,5 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Task Details
-### 1. Create a file in the CodeContributors Folder and write a code to print "Hello World" in your favourite programming language.
+### 1. Create a file in the contributions Folder and write a code to print "Hello World" in your favourite programming language.
 ### 2. Add your name and details in the contributors.md file
