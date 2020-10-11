@@ -7,7 +7,7 @@
  - Bio: 3rd Year Computer Science Student at VIT Chennai.
  - Reg. No: 18BCE1081
 
- #### Name: Ozil Bot
- - Bio: I am a bot
- - Reg. No: -
+ #### Name: Harshal Shree
+ - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai
+ - Reg. No: 18BLC1039
  
