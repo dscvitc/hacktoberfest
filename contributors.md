@@ -40,3 +40,6 @@
  #### Name: Aayush Mishra
 - Bio: 2nd Year Computer Science and  Eng. Student at VIT Bhopal
 - Reg. No: 19BAI10150
+
+#### Name: Bhairavi Shah
+- Bio: Software Development Engineer [](https://bhairavi-shah.github.io/)
