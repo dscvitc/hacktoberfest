@@ -54,3 +54,7 @@
  #### Name: Deepakshi Sood
  - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai.
  - Reg. No: 18BLC1008
+
+ #### Name: Pratyush Aryan
+- Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
+- Reg. No: 19BLC1054
