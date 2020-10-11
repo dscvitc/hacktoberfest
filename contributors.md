@@ -10,6 +10,10 @@
  #### Name: Joseph Olugbohunmi
  - Bio: Software Engineer at [Seamfix](https://github.com/seamfix/) and Volunteer Android Engineer at [FightPandemics](https://github.com/fightpandemics)
 
+#### Name: Muhesh Kumar
+ - Bio: Freshman at VITC, pursuing B.Tech CSE - AI and ML
+ - Reg. No: 20BAI1175
+
  #### Name: Nipun Rautela
  - Bio: 1st Year Computer Science and Eng. (Specialization in AI & ML) Student at VIT Chennai
  - Reg. No: 20BAI1135
