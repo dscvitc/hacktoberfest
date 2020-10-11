@@ -42,4 +42,4 @@
 - Reg. No: 19BAI10150
 
 #### Name: Bhairavi Shah
-- Bio: Software Development Engineer [](https://bhairavi-shah.github.io/)
+- Bio: Software Development Engineer [ ](https://bhairavi-shah.github.io/)
