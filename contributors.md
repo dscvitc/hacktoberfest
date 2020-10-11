@@ -10,3 +10,6 @@
 #### Name: Abhishek Kumkar
  - Bio: 3rd Year Computer Science Student at VIT Chennai.
  - Reg. No: 18BCE1081
+ 
+ #### Name: Joseph Olugbohunmi
+ - Bio: Software Engineer at [Seamfix](https://github.com/seamfix/) and Volunteer Android Engineer at [FightPandemics](https://github.com/fightpandemics)
