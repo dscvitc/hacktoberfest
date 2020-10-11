@@ -11,6 +11,3 @@
  - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai.
  - Reg. No: 18BLC1039
  
-  #### Name: Ozil Bot
- - Bio: Test Bot
- - Reg. No: -
