@@ -42,5 +42,5 @@
 - Reg. No: 19BAI10150
 
  #### Name: Jerry Jaimon
- - Bio: BTech Computer Science and Eng.Student at VIT Chennai
- - Reg. No: 18BCE1332
+- Bio: 3rd Year Computer Science and  Eng. Student at VIT Chennai
+- Reg. No: 18BCE1332
