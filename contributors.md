@@ -10,4 +10,8 @@
 #### Name: Harshal Shree
  - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai
  - Reg. No: 18BLC1039
+ 
+ #### Name : Santhanam
+  - Bio : 1st Year Computer Science at VIT Chennai
+  - Reg. No : 20BCE1474
 
