@@ -46,3 +46,7 @@
 
 #### Name : Tandel Dipak
  - Bio : Data Engineer at Vyaparapp
+
+ #### Name: Jerry Jaimon
+- Bio: 3rd Year Computer Science and  Eng. Student at VIT Chennai
+- Reg. No: 18BCE1332
