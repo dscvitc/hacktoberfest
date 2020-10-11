@@ -41,6 +41,6 @@
 - Bio: 2nd Year Computer Science and  Eng. Student at VIT Bhopal
 - Reg. No: 19BAI10150
 
- #### Name: Aayush Mishra
+ #### Name: Pratyush Aryan
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
