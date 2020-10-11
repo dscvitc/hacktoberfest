@@ -50,3 +50,7 @@
  #### Name: Jerry Jaimon
 - Bio: 3rd Year Computer Science and  Eng. Student at VIT Chennai
 - Reg. No: 18BCE1332
+
+ #### Name: Deepakshi Sood
+ - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai.
+ - Reg. No: 18BLC1008
