@@ -1,0 +1,55 @@
+git init
+ls -la
+git status
+
+git config --local user.name aryansisodia
+git config --local user.email aryansisodia@outlook.com
+git config user.name
+
+git add filename
+git rm --cached filename
+git add .
+
+git commit -m "some message"
+
+git log
+git log --oneline
+
+git checkout hash
+git checkout master
+
+CHECK THIS!!!! (SHIFT + COLON -> wq)
+git revert hash
+
+git reset hash
+git reset hash --hard
+
+git branch new_branch_name
+git branch -a
+git checkout branch_name
+
+(go to master first)
+git branch -d branch_name
+git branch -D branch_name
+
+git checkout -b new_branch_name
+
+(go to master first)
+git merge branch_name
+
+(if conflict -> fix file)
+git add .
+git commit
+
+git config --global credential.helper ""
+
+git status
+git push repo_.git_url master
+git remote add origin https://github.com/shrn82256/git101.git
+git push origin master
+
+git pull origin master
+git checkout -b new_branch_name
+git push origin new_branch_name
+
+git clone repo_url
