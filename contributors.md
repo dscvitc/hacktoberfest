@@ -62,3 +62,7 @@
 #### Name: Siddharth Shah
 - Bio: 2nd Year Computer Science Student at VJTI Mumbai
 - Reg. No: 191070066
+
+#### Name: Sol Kuczala
+- Bio: Self-taught developer playing in Hacktoberfest :)
+
