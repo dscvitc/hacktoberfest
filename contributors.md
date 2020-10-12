@@ -41,6 +41,11 @@
 - Bio: 2nd Year Computer Science and  Eng. Student at VIT Bhopal
 - Reg. No: 19BAI10150
 
+
+#### Name: Geetha KS
+-Bio: 1st Year Electronics and Computer eng. at VIT Chennai
+-Reg. No: 20BLC1042
+
 #### Name: Bhairavi Shah
 - Bio: [Software Development Engineer](https://bhairavi-shah.github.io/)
 
@@ -65,4 +70,5 @@
 
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
+
 
