@@ -63,6 +63,9 @@
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
 
+#### Name: prabhat kumar singh
+- Bio: 3rd year computer science engineering student at GLA UNIVERSITY.
+
 #### Name: Yash Seth
  - Bio: 1st Year Computer Science and Engineering at VIT Chennai
  - Reg. No: 20BCE1789
@@ -73,6 +76,4 @@
 
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
-
-
 
