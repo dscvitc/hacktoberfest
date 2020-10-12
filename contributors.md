@@ -58,3 +58,7 @@
  #### Name: Pratyush Aryan
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
+
+#### Name: Akriti Yadav
+ - Bio: 3rd Year Electronics and Comm. Student at VIT Chennai.
+ - Reg. No: 18BEC1116
