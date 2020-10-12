@@ -58,3 +58,6 @@
  #### Name: Pratyush Aryan
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
+
+#### Name: Sol Kuczala
+- Bio: Self-taught developer playing in Hacktoberfest :)
