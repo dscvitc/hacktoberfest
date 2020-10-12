@@ -58,3 +58,7 @@
  #### Name: Pratyush Aryan
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
+
+ #### Name: Yash Seth
+ - Bio: 1st Year Computer Science and Engineering at VIT Chennai
+ - Reg. No: 20BCE1789
