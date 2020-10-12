@@ -59,5 +59,10 @@
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
 
+#### Name: Siddharth Shah
+- Bio: 2nd Year Computer Science Student at VJTI Mumbai
+- Reg. No: 191070066
+
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
+
