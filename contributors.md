@@ -58,3 +58,6 @@
  #### Name: Pratyush Aryan
 - Bio: 2nd Year Electronic and Computer  Eng. Student at VIT Chennai
 - Reg. No: 19BLC1054
+
+ #### Name: prabhat kumar singh
+- Bio: 3rd year computer science engineering student at GLA UNIVERSITY.
