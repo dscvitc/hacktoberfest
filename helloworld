@@ -1,0 +1,7 @@
+public class rishika
+{
+    public static void main()
+    {
+        System.out.println("Hello World!");
+}
+}
