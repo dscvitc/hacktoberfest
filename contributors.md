@@ -77,3 +77,5 @@
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
 
+#### Name: Aarushi
+- Bio: 2nd year engineering student at IIITA.
