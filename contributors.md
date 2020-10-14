@@ -77,3 +77,6 @@
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
 
+
+#### Name: Sumit
+Bio: Final year BCA student at Annamalai University .
