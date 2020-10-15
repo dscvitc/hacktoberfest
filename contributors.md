@@ -77,3 +77,7 @@
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
 
+#### Name: Ritwika Bhattacharjee
+ - Bio: 3rd Year Computer Science Student at VIT Chennai.
+ - Reg. No: 18BCE1008
+
