@@ -81,3 +81,6 @@
  - Bio: 3rd Year Computer Science Student at VIT Chennai.
  - Reg. No: 18BCE1008
 
+#### Name: Siddhant Roy
+ - Bio: 2nd Year Computer Science and Eng. Student at VIT Chennai
+ - Reg. No: 19BCE1181
