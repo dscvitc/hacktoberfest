@@ -91,3 +91,6 @@
 
 #### Name: Sumit
 Bio: Final year BCA student at Annamalai University .
+
+#### Name: Aarushi
+- Bio: 2nd year engineering student at IIITA.
