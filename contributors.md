@@ -77,5 +77,20 @@
 #### Name: Sol Kuczala
 - Bio: Self-taught developer playing in Hacktoberfest :)
 
+#### Name: Ritwika Bhattacharjee
+ - Bio: 3rd Year Computer Science Student at VIT Chennai.
+ - Reg. No: 18BCE1008
+
+#### Name: Siddhant Roy
+ - Bio: 2nd Year Computer Science and Eng. Student at VIT Chennai
+ - Reg. No: 19BCE1181
+
+ #### Name: Shaunak Deshpande
+ - Bio: 2rd Year Computer Science Student at VIT Chennai.
+ - Reg. No: 19BCE1310
+
+#### Name: Sumit
+Bio: Final year BCA student at Annamalai University .
+
 #### Name: Aarushi
 - Bio: 2nd year engineering student at IIITA.
