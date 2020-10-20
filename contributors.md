@@ -6,14 +6,14 @@
 #### Name: Abhishek Kumkar
  - Bio: 3rd Year Computer Science Student at VIT Chennai.
  - Reg. No: 18BCE1081
- 
+
 #### Name: Aryan Sisodia
  - Bio: SDE1 at PayPal
- 
+
 #### Name: Harshal Shree
  - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai
  - Reg. No: 18BLC1039
- 
+
 #### Name: Joseph Olugbohunmi
  - Bio: Software Engineer at [Seamfix](https://github.com/seamfix/) and Volunteer Android Engineer at [FightPandemics](https://github.com/fightpandemics)
 
@@ -94,3 +94,6 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Aarushi
 - Bio: 2nd year engineering student at IIITA.
+
+#### Name: Mookesh Dash
+- Bio: Fresher in Mechanical Engineering at VIT Chennai
