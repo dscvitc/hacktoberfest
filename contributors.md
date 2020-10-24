@@ -97,3 +97,8 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Mookesh Dash
 - Bio: Fresher in Mechanical Engineering at VIT Chennai
+
+#### Name: Yashi Srivastava
+ - Bio: 2nd Year Electronics and Computer Engineering student at VIT Chennai
+ - Reg. No: 19BLC1065
+
