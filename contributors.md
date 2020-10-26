@@ -105,3 +105,5 @@ Bio: Final year BCA student at Annamalai University .
  - Bio: 2nd Year Electronics and Computer Engineering student at VIT Chennai
  - Reg. No: 19BLC1065
 
+#### Name: Bhakti
+- Bio: Bsc Computer Science at Dolat Usha, Valsad
