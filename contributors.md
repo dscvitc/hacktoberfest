@@ -10,6 +10,9 @@
 #### Name: Aryan Sisodia
  - Bio: SDE1 at PayPal
 
+#### Name: Manoela Reis
+ - Bio: 4th Year Biomedical Informatics Student at USP - University of Sao Paulo
+
 #### Name: Harshal Shree
  - Bio: 3rd Year Electronics and Computer Eng. Student at VIT Chennai
  - Reg. No: 18BLC1039
