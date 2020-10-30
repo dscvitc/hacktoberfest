@@ -107,3 +107,6 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Bhakti
 - Bio: Bsc Computer Science at Dolat Usha, Valsad
+
+#### Name: Priyanshu Giri
+- Bio: B.Tech Information Technology at Government College of Engineering 
