@@ -110,3 +110,6 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Priyanshu Giri
 - Bio: B.Tech Information Technology at Government College of Engineering 
+
+#### Name: Prithviraj
+- Bio: 3rd year B.tech EEE student at VIT Chennai
