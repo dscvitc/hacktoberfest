@@ -110,3 +110,8 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Priyanshu Giri
 - Bio: B.Tech Information Technology at Government College of Engineering 
+
+
+#### Name: Aditya Sai
+- Bio: B.Tech CSE at VITC
+- Reg. No: 21BCE1889
