@@ -110,3 +110,6 @@ Bio: Final year BCA student at Annamalai University .
 
 #### Name: Priyanshu Giri
 - Bio: B.Tech Information Technology at Government College of Engineering 
+
+#### Name: Pruthviraj Patil
+- Bio: 3rd year B.Tech in Computer Enginering at K.J. Somaiya Institue Of Engineering and Information Technology (KJSIEIT)
